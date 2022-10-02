@@ -1,11 +1,6 @@
-## Desenvolvedor front-end
-Desde 2010 trabalho atuando na área de T.I, tenho trabalhos realizados nos seguintes campos, suporte técnico, administração de
-sistema linux, e atualmente estou na área de desenvolvimento, com html, css e javascrip, durante minhas experiencias no mercado de
-T.I, obtive soluções relacionado a suporte técnico, implementação de servidores, e recentemente estou realizando um projeto de um
-site, focado em soluções estratégicas com o objetivo de melhorar o posicionamento nos buscadores como google gerando trafego
-e autoridade digital, minha meta é me torna um desenvolvedor full stack sênior, estou ciente que haverá muito a aprender, mas preciso
-iniciar de alguma forma, por isso minha escolha esta sendo fron-end pelo fato de poder realizar projetos, obter experiencias e retorno
-financeiro com trabalhos freelancer.
+Ensino médio concluído em 2009, cursos realizados na área tecnológica , Viagem ao exterior a trabalho de 2013 a 2021 durante esse período fora do Brasil obtive diversas experiências culturais, idioma, modo de trabalho, que me auxiliam hoje a lidar com diferentes situações , devido a pandemia retornei ao brasil para ficar próximo dos parentes e nessas circunstâncias  percebi a necessidade de iniciar uma carreira profissional, hoje cursando o 2° semestre em análise e desenvolvimento de sistemas, desenvolvo habilidades como análise de dados, resolução de problemas, modelagem de dados, soft skills, entre muitas outras, dentre essas, cito o projeto social que todos nós discentes temos que realizar e para esse projeto social foi de minha livre escolhi aumentar o desempenho educacional na rede de ensino, um tema de grande importância para o nosso país, Pois o progresso parti de uma educação onde possa ser aplicadas diferentes formas de aprendizado, utilizando recursos tecnológicos, metodologias de aprendizagem visual, leitura-escrita, verbal, cinestésico, entre outras ferramentas que podem auxiliar o desempenho dos alunos.
+Visto que era um antigo sonho poder atuar na área tecnológica, hoje cursando de fato análise e desenvolvimento de Sistemas, vejo imensas oportunidades não apenas em conquistar uma vaga no mercado de trabalho, mas também de aperfeiçoar meus hábitos pessoais, aprender diversas hard skills, mudar o mundo em minha volta e perante a essas novas experiencias, surgiu em mim uma enorme vontade em atuar em TI e me aprofundar nessa área cheia de oportunidades e de pessoas com mente aberta para o novo e entusiasmadas em inovar.
+
 
 #### linkedin : https://www.linkedin.com/in/ademar-mitsuo-66237b236/
 
