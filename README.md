@@ -7,6 +7,6 @@ Profissional orientado aos negócios com habilidades em: desenvolvimento em equi
 - [habilidades em Figma, CSS, Git, WebFlow, Node.JS]
 
 ## Contato
--     (11) 983954971
+-     (11) 96356-7703
 - 📧 [ademar.junior92@cs.cruzeirodosul.edu.br]
 - 🐦 [linkedin](https://www.linkedin.com/in/ademarkumabe/)
